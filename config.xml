@@ -5,10 +5,10 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 id ="com.phonegap.example7"
 version ="1.0.0">
 
-<name> app7 DESLIZAR HACIA LA IZQUIERDA Y A LA DERECHA </name>
+<name> app8 MOSTRAR APLICACIONES </name>
 
 <description>
-Aplicacion que realiza el swipe o deslizamiento en el dispositivo
+Aplicacion que MUESTRA TRES APLICACIONES
 </description>
 
 <author href="https://build.phonegap.com" email="blancaflores1g@gmail.com">
